@@ -61,14 +61,14 @@ const Home = (props) => {
                                     <div className='d-flex mrgt3'>
                                         <div className='str'>
                                             <div className='d-flex align-items-center'>
-                                                 <img src="../../../images/assets/cap.svg" alt="blob" style={{    position: 'relative', top: '-8px'}} />
+                                                 <img src="../../../images/icons/cap.svg" alt="blob" style={{    position: 'relative', top: '-8px'}} />
                                                  <p className='font-mattersemibold fs-16  onblack ml-3' style={{lineHeight: '20px'}}>Complete Real life Projects <br />at your own Pace</p>
                                             </div>
                                         </div>
 
                                         <div className='str ml-6'>
                                             <div className='d-flex align-items-center'>
-                                                 <img src="../../../images/assets/card.svg" alt="blob" style={{    position: 'relative', top: '-8px'}} /> 
+                                                 <img src="../../../images/icons/card.svg" alt="blob" style={{    position: 'relative', top: '-8px'}} /> 
                                                  <p className='font-mattersemibold fs-16  onblack ml-3' style={{lineHeight: '20px'}}>Get Exposed to Industry<br />astandard tasks</p>
                                             </div>
                                         </div>
@@ -90,7 +90,7 @@ const Home = (props) => {
                                         {/* <img src="../../../images/assets/img@blob-04.png" alt="blob" className="round said-img img-blob mb-1 " /> */}
 
                                         <div className="img-blob said-img-third  round ui-relative">
-                                            <img src="../../../images/assets/img.png" alt="blob" />
+                                            <img src="../../../images/icons/img.png" alt="blob" />
                                         </div>
 
                                     </div>

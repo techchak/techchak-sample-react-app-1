@@ -1,0 +1,380 @@
+@media screen and (max-width:1500px){
+    
+}
+
+@media screen and (max-width:1199px){
+    
+   
+}
+
+@media screen and (min-width: 992px){
+   
+}
+
+@media screen and (max-width:991px){
+    .container{
+        width: 98% !important;
+    }
+}
+
+@media screen and (max-width:768px){
+
+  .container-fluid{
+    width: 93%;
+  }
+
+  .container {
+    width: 93%;
+  }
+
+  
+  .ui-page-header .pdl1{
+    padding: 0 !important;
+  }
+
+  .ui-page-header-options .ui-group-button a {
+    margin: 0 0.4rem;
+  }
+
+  .ui-page-header-options .ui-group-button a:last-child{
+    margin: 0 !important;
+  }
+
+  .table th, .table td {
+      display: inline-flex;
+      width: 33%;
+  }
+
+  .table.d-flat th, .table.d-flat td {
+    width: 33% !important;
+}
+
+  .table th.w-20, .table td.w-20 {
+    width: 20%;
+  }
+
+  .table th.w-25, .table td.w-25 {
+    width: 30%;
+  }
+
+  .table th.w-30, .table td.w-30 {
+    width: 30%;
+  }
+
+  .table th.w-40, .table td.w-40 {
+    width: 40%;
+  }
+
+  .text-elipsis {
+    display: inline-block;
+    text-overflow: ellipsis !important;
+    overflow-x: hidden;
+    width: 50%;
+    white-space: nowrap;
+  }
+
+  .text-elipsis.md {
+    width: 30%;
+  }
+
+  .text-elipsis.sm {
+    width: 15%;
+  }
+
+  .text-elipsis.lg {
+    width: 70%;
+  }
+
+  .form.form-box.h-md, .form-box.h-md {
+      padding-right: 0;
+      padding-left: 0;
+  }
+
+  .form-box.default {
+    background-color: #fff;
+  }
+
+  .ui-body-content-inner .ui-wrapper-mini:first-child{
+    padding: 0 !important;
+    margin-top: 0 !important;
+  }
+
+  .ui-wrapper-xmini{
+    padding: 0 !important;
+  }
+
+
+
+  .flex-height {
+    height: 100vh;
+}
+  
+}
+
+@media (max-width: 767px){
+
+    .ui-hide-mobile-only{
+        display: none !important;
+    }
+
+    .ui-show-mobile-only{
+        display: block !important;
+    }
+
+    .navigation {
+      padding:0;
+    }
+
+    .main-nav .pdl3{
+      padding-left: 0 !important;
+    }
+
+ 
+
+    .section div.mrgt4{
+      margin-top: 0 !important;
+    }
+
+ 
+
+    .hero.hero-home .fs-18{
+      font-size: 16px !important;
+    }
+
+    .hero .caption, .hero .caption span {
+        margin-top: 3rem !important;
+        font-size: 42px;
+        line-height: 52px;
+    }
+
+    .hero.hero-home .hero-inner,
+    .hero .hero-inner {
+      height: auto;
+      padding: 5rem 0;
+    }
+
+    .section .section-title.xxl {
+      font-size: 40px;
+    }
+
+    .section .section-title.xl {
+        line-height: 35px !important;
+    }
+
+    .dcm-box {
+        width: 100%;
+        border-radius: 0;
+        padding: 0;
+        background-color: #0B093A;
+    }
+
+    .section .row.mrgb5{
+      margin-bottom: 1rem !important;
+    }
+
+    .ui-line-height-mlarge {
+        line-height: 2em !important;
+    }
+
+    .section#curriculum .section-title.xxl {
+      font-size: 35px;
+    }
+
+    .curriculum .card-box {
+        background-color: transparent;
+        padding: 0 !important; 
+        margin-bottom: 3.5rem;
+    }
+    
+    .form .d-flex{
+      display: block;
+    }
+
+    .form .d-flex .btn{
+      display: block;
+      width: 100%;
+    }
+}
+
+@media screen and (min-width: 600px){
+    
+}
+
+@media (min-width: 576px){
+
+  
+
+.card-columns {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 2 !important;
+    -webkit-column-gap: 1.25rem !important;
+    -moz-column-gap: 1.25rem !important;
+    column-gap: 8.25rem !important;
+    orphans: 1;
+    widows: 1;
+}
+
+  .modal-dialog {
+      max-width: 750px;
+      margin: 0 auto;
+  }
+
+  .modal.slim-xs .modal-dialog {
+    max-width: 450px;
+    margin: 0 auto;
+    
+  }
+
+  /* .modal.slim-mlg .modal-dialog {
+    max-width: 400px;
+    margin: 0 auto;
+} */
+
+  .modal.slim-lg .modal-dialog {
+    max-width: 550px;
+    margin: 0 auto;
+  }
+
+  .modal.slim-slg .modal-dialog {
+    max-width: 450px;
+    margin: 0 auto;
+  }
+
+  .modal.slim-mlg .modal-dialog {
+    max-width: 650px;
+    margin: 0 auto;
+  }
+
+  .modal.slim-xlg .modal-dialog {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .modal-dialog .modal-content{
+    border-radius: 16px;
+    border: none !important;
+  }
+
+  .custom-modal .modal-content{
+    border-radius: 6px;
+  }
+
+  /* .custom-modal .modal-content .modal-body{
+    min-height: 300px;
+    padding: 0;
+  } */
+  .custom-modal .dm--dbx{
+    border-radius: 14px 0 0 14px;
+    width: 35%;
+    min-height: 300px;
+  }
+
+  .custom-modal.xs .dm--dbx,
+  .custom-modal .modal-content .modal-body{
+    min-height: 250px;
+  }
+  
+  .custom-modal.sm .dm--dbx,
+  .custom-modal .modal-content .modal-body{
+    min-height: 250px;
+  }
+
+  .custom-modal.md .dm--dbx{
+    min-height: 380px;
+  }
+
+  .custom-modal.lg .dm--dbx{
+    min-height: 450px;
+  }
+
+  .custom-modal.xl .dm--dbx{
+    min-height: 500px;
+  }
+
+  .custom-modal .modal-content .modal-body{
+    padding: 0 !important;
+  }
+  .custom-modal .dm--body{
+    padding: 1.7rem 1.5rem;
+    border-radius: 0 16px 16px 0;
+    width: 65%;
+    position: relative;
+  }
+  .custom-modal .dm--body .dm--ct{
+    min-height: 85%;
+    position: relative;
+  }
+  .custom-modal .dm--body .dm--ct .btn{
+    bottom: 0;
+  }
+  .custom-modal .form-control{
+    border-radius: 6px;
+    /* border: 1px solid #C9DFEA; */
+    background-color: #F6F9FB;
+    width: 100% !important;
+    min-height: 45px !important;
+  }
+  .custom-modal form select.form-control{
+    min-height: 51px !important;
+    border-radius: 4px !important;
+  }
+  .custom-modal form .form-control:focus,
+  .custom-modal form .form-control:active{
+    box-shadow: none !important;
+    outline: none !important;
+    border: 1px solid #6d6d6c;
+  }
+
+  .custom-modal.flat .dm--dbx{
+    display: none;
+  }
+
+  .custom-modal.flat .dm--body{
+    width: 100%;
+    /* height: 450px !important; */
+  }
+
+  .custom-modal.flat.stretched .dm--body{
+    height: 550px !important;
+  }
+
+  .custom-modal.flat .dm--body .dm--ct{
+    height: auto !important;
+  }
+
+  .modal-content {
+      -webkit-border-radius: 15px;
+      -moz-border-radius: 15px;
+      -ms-border-radius: 15px;
+      -o-border-radius: 15px;
+      border-radius: 15px;
+  }
+  
+
+}
+
+@media (max-width:576px){
+
+
+}
+
+@media (max-width:375px){
+
+  .hero .caption-sub {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    margin-top: 7rem;
+  }
+    
+  .hero .caption.sm, .hero .caption.sm span {
+  font-size: 36px;
+  line-height: 56px;
+  }
+
+  .hero-section h1 {
+  text-align: center;
+  font-size: 36px !important;
+  }
+
+}

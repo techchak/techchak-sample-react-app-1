@@ -1,0 +1,22 @@
+PART 1
+Clone the repository
+cd into the new directory
+Install the latest version of node else you'd have errors
+  To install latest node version: (make sure you're in the project folder)
+    a. curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    b. nvm install v17.3.0
+    node --version
+Install the latest version of npm
+    a. sudo npm install -g npm@9.1.2
+    npm --version
+Ensure all scripts are updated:  
+  a. npm install react-scripts@latest
+  
+  PART 2
+npm run build
+npm start (check your browser)
+
+  PART 3
+
+  
+    
